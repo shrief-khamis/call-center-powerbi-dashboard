@@ -1,5 +1,5 @@
 # call-center-powerbi-dashboard
-Two Call Center Dashboard created by Power BI
+Two Interactive Call Center Dashboards created by Power BI
 
 Just two different ways to present key call center performance overview.
 
